@@ -8,7 +8,7 @@ if i< 18:
      print("não precisa se alistar")
 if i>18 and i<65:
     eita=False
-    print("nao esqueça e votar na proxima eleiçao.")
+    print("nao esqueça de votar na proxima eleição.")
 if i>65:
     eita=False
     print("vá descansar")
