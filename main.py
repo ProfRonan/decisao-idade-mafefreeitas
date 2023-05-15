@@ -13,4 +13,4 @@ if i>65:
     eita=False
     print("vá descansar")
 if eita:
-    print("eita!")
+    print("Eita!")
